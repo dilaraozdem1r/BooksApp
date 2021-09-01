@@ -1,0 +1,33 @@
+{
+  "books" : [
+      
+          {
+              "name": " Pride and Prejudice",
+              "imageURL":"https://www.penguin.co.uk/content/dam/prh/books/183/183689/9780141199078.jpg.transform/PRHDesktopWide_small/image.jpg",
+              "author":"Jane Austen" ,
+              "overview": " It is a truth universally acknowledged that when most people think of Jane Austen they think of this charming and humorous story of love, difficult families and the tricky task of finding a handsome husband with a good fortune.",
+              "id": 1
+            },
+            {
+              "name": " To Kill a Mockingbird",
+              "author":"Harper Lee" ,
+              "overview": " A novel before its time, Harper Lee’s Pulitzer-prize winner addresses issues of race, inequality and segregation with both levity and compassion. Told through the eyes of loveable rogues Scout and Jem, it also created one of literature’s most beloved heroes – Atticus Finch, a man determined to right the racial wrongs of the Deep South.",
+              "imageURL": "https://www.penguin.co.uk/apps/settings/wcm/designs/prh/images/covers/default-book-jacket.png",
+              "id": 2
+            },
+            {
+              "name": "The Great Gatsby",
+              "author":"F. Scott Fitzgerald" ,
+              "overview": " ay Gatsby, the enigmatic millionaire who throws decadent parties but doesn’t attend them, is one of the great characters of American literature. This is F. Scott Fitzgerald at his most sparkling and devastating.",
+              "imageURL": "https://www.penguin.co.uk/content/dam/prh/books/566/56606/9780141182636.jpg.transform/PRHDesktopWide_small/image.jpg",
+              "id": 3
+            },
+            {
+              "name": " One Hundred Years of Solitude",
+              "author":"Gabriel García Márquez" ,
+              "overview": "Gabriel García Márquez’s multi-generational spanning magnum opus was a landmark in Spanish literature.",
+              "imageURL": "https://www.penguin.co.uk/content/dam/prh/books/562/56215/9780241968581.jpg.transform/PRHDesktopWide_small/image.jpg",
+              "id": 4
+            }
+  ]
+}

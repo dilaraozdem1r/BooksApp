@@ -1,0 +1,88 @@
+{
+  "books": [
+    {
+      "name": " Pride and Prejudice",
+      "author": "Jane Austen",
+      "overview": " It is a truth universally acknowledged that when most people think of Jane Austen they think of this charming and humorous story of love, difficult families and the tricky task of finding a handsome husband with a good fortune.",
+      "imageURL": "https://www.penguin.co.uk/content/dam/prh/books/183/183689/9780141199078.jpg.transform/PRHDesktopWide_small/image.jpg",
+      "id": 1
+    },
+    {
+      "name": " To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "overview": " A novel before its time, Harper Lee’s Pulitzer-prize winner addresses issues of race, inequality and segregation with both levity and compassion. Told through the eyes of loveable rogues Scout and Jem, it also created one of literature’s most beloved heroes – Atticus Finch, a man determined to right the racial wrongs of the Deep South.",
+      "imageURL": "https://www.penguin.co.uk/content/dam/prh/books/108/1088099/9781784752637.jpg.transform/PRHDesktopWide_small/image.jpg",
+      "id": 2
+    },
+    {
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "overview": " ay Gatsby, the enigmatic millionaire who throws decadent parties but doesn’t attend them, is one of the great characters of American literature. This is F. Scott Fitzgerald at his most sparkling and devastating.",
+      "imageURL": "https://www.penguin.co.uk/content/dam/prh/books/566/56606/9780141182636.jpg.transform/PRHDesktopWide_small/image.jpg",
+      "id": 3
+    },
+    {
+      "name": " One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "overview": "Gabriel García Márquez’s multi-generational spanning magnum opus was a landmark in Spanish literature.",
+      "imageURL": "https://www.penguin.co.uk/content/dam/prh/books/562/56215/9780241968581.jpg.transform/PRHDesktopWide_small/image.jpg",
+      "id": 4
+    },
+    {
+      "name": " In Cold Blood",
+      "author": "Truman Capote",
+      "overview": "The ‘true crime’ TV show / podcast you’re obsessed with probably owes a debt to this masterpiece of reportage by Truman Capote. Chilling and brilliant.",
+      "imageURL": "https://www.penguin.co.uk/content/dam/prh/books/570/57020/9780141182575.jpg.transform/PRHDesktopWide_small/image.jpg",
+      "id": 5
+    },
+    {
+      "name": " Tess of the d'Urbervilles ",
+      "author": "Thomas Hardy",
+      "overview": "It received mixed reviews it was first published, in part because it challenged Victorian ideals of purity and sexual morals. But Thomas Hardy’s unflinching account of Tess’s bid for salvation in a society ready to condemn her is a harrowing and powerful read.",
+      "imageURL": "https://www.penguin.co.uk/content/dam/prh/books/559/55964/9780141439594.jpg.transform/PRHDesktopWide_small/image.jpg",
+      "id": 6
+    },
+    {
+      "name": "  Brave New World ",
+      "author": "Aldous Huxley",
+      "overview": "One of the greatest and most prescient dystopian novels ever written, this should be on everyone’s must-read list.",
+      "imageURL": "https://www.penguin.co.uk/content/dam/prh/books/111/1110001/9781784870140.jpg.transform/PRHDesktopWide_small/image.jpg",
+      "id": 7
+    },
+    {
+      "name": " I Capture The Castle",
+      "author": "Dodie Smith",
+      "overview": "Cassandra Mortmain’s upbringing in a crumbling castle with her eccentric family may not be everyone’s experience, but we can guarantee her coming-of-age story with all its enchanting and disenchanting moments will resonate for many.",
+      "imageURL": "https://www.penguin.co.uk/content/dam/prh/books/296/296874/9780141371504.jpg.transform/PRHDesktopWide_small/image.jpg",
+      "id": 8
+    },
+    {
+      "name": " Persuasion ",
+      "author": " Jane Austen",
+      "imageURL": "https://www.penguin.co.uk/content/dam/prh/books/559/55906/9780141197692.jpg.transform/PRHDesktopWide_small/image.jpg",
+      "overview": "Austen’s last completed novel before her untimely death was one tinged with heartache and regret. Anne Elliot’s feelings for the handsome Captain Wentworth are re-ignited when he returns from sea. Will they get a second chance at happiness? ",
+      "id": 9
+    },
+    {
+      "name": "Moby-Dick ",
+      "author": "Herman Melville",
+      "imageURL": "https://www.penguin.co.uk/content/dam/prh/books/622/62240/9780142437247.jpg.transform/PRHDesktopWide_small/image.jpg",
+      "overview": "Every American writer since 1851 has been chasing the same whale: to somehow write a novel as epic and influential as Melville’s.",
+      "id": 10
+    },
+    {
+      "name": "To the Lighthouse",
+      "author": "Virginia Woolf ",
+      "imageURL": "https://www.penguin.co.uk/content/dam/prh/books/571/57101/9780241341681.jpg.transform/PRHDesktopWide_small/image.jpg",
+      "overview": "To the Lighthouse is a daring novel with little regard for rules. There’s no consistent narrator, scant dialogue and almost no plot. With everything stripped away, we’re left with a breathtaking and lyrical meditation on relationships, nature and the folly of perception.",
+      "id": 11
+    },
+    {
+      "name": "The Death of the Heart ",
+      "author": "Elizabeth Bowen",
+      "imageURL": "https://www.penguin.co.uk/content/dam/prh/books/103/1033043/9780099276456.jpg.transform/PRHDesktopWide_small/image.jpg",
+      "overview": "Considered Elizabeth Bowen’s masterpiece novel, this is the story of 16-year old Portia who is sent to live with her Aunt in London, after her mother’s death. There, she falls for the attractive cad Eddie. A devastating exploration of adolescent love and innocence betrayed.",
+      "id": 12
+    }
+  ]
+}

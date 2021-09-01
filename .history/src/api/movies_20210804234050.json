@@ -1,0 +1,38 @@
+{
+    "books":[
+        
+            {
+                "name": " Pride and Prejudice",
+                "author":"Jane Austen" ,
+                "overview": " It is a truth universally acknowledged that when most people think of Jane Austen they think of this charming and humorous story of love, difficult families and the tricky task of finding a handsome husband with a good fortune.",
+                "imageURL": "https://www.penguin.co.uk/content/dam/prh/books/183/183689/9780141199078.jpg.transform/PRHDesktopWide_small/image.jpg",
+                "id": 1
+              },
+              {
+                "id": 4,
+                "name": "Rogue",
+                "rating": 7.4,
+                "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+                "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/uOw5JD8IlD546feZ6oxbIjvN66P.jpg"
+              },
+              {
+                "name": "Élite",
+                "rating": "6.3",
+                "overview": "İşçi sınıfından gelen üç genç İspanya'daki seçkin bir özel okula kaydolunca, onlarla zengin öğrenciler arasında başlayan çatışma bir cinayete yol açar.",
+                "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1aQY4oYX5XOMN0vMDqwzS7hfPIt.jpg",
+                "id": 5
+              },
+              {
+                "name": "Trol Avcıları: Titanlar Yükseliyor ",
+                "rating": "5.6",
+                "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg",
+                "overview": "\"Trol Avcıları\", \"3 Altında\" ve \"Büyücüler\"in kahramanları, Dünya'yı ele geçirip ilk hâline döndürmek isteyen karanlık bir düşmanla savaşmak için güçlerini birleştiriyor.",
+                "id": 6
+              }
+    
+
+    ]
+
+
+    
+}
